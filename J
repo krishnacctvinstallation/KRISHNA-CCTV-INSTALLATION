@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Products - Krishna CCTV</title>
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="products.html">Products</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <h1>Our CCTV Products</h1>
+
+  <div>
+    <h2>HD Camera</h2>
+    <img src="images/camera1.jpg" alt="HD CCTV Camera" width="300">
+    <p>Clear night vision with 1080p recording.</p>
+  </div>
+
+  <div>
+    <h2>DVR System</h2>
+    <img src="images/dvr1.jpg" alt="DVR System" width="300">
+    <p>Supports 4/8/16 channels with backup.</p>
+  </div>
+</body>
+</html>
